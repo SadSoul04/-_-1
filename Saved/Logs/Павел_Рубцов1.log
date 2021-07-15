@@ -2082,3 +2082,238 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.15-17.55.03:491][337]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
 [2021.07.15-17.55.05:096][519]LogWindows: Warning: CreateProc failed: Отказано в доступе. (0x00000005)
 [2021.07.15-17.55.05:096][519]LogWindows: Warning: URL: D:/UE_4.25/Engine/Binaries/Win64/ version
+[2021.07.15-17.56.44:351][843]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'D:/Проэкт/Павел_Рубцов1'
+[2021.07.15-17.56.46:168][843]LogSlate: Window 'Save Level As' being destroyed
+[2021.07.15-17.56.46:203][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../Проэкт/Павел_Рубцов1/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.15-17.56.46:221][843]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2021.07.15-17.56.46:244][843]LogSavePackage: Moving '../../../../Проэкт/Павел_Рубцов1/Saved/NewMapC71BA435482C70492EC37C89321C3C1D.tmp' to '../../../../Проэкт/Павел_Рубцов1/Content/NewMap.umap'
+[2021.07.15-17.56.46:982][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../Проэкт/Павел_Рубцов1/Content/NewMap_BuiltData.uasset" SILENT=true
+[2021.07.15-17.56.46:994][843]LogSavePackage: Moving '../../../../Проэкт/Павел_Рубцов1/Saved/NewMap_BuiltData48B8EDF64A4C12D23FA502923CE40D93.tmp' to '../../../../Проэкт/Павел_Рубцов1/Content/NewMap_BuiltData.uasset'
+[2021.07.15-17.56.47:552][843]LogFileHelpers: Saving map 'NewMap' took 1.377
+[2021.07.15-17.56.47:557][843]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.15-17.56.47:557][843]LogContentValidation: Display: Validating World /Game/NewMap.NewMap
+[2021.07.15-17.56.47:557][843]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/NewMap_BuiltData.NewMap_BuiltData
+[2021.07.15-17.56.47:943][885]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'D:/Проэкт/Павел_Рубцов1'
+[2021.07.15-17.59.11:033][857]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.07.15-17.59.27:171][754]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Trash/TestActor1.TestActor1
+[2021.07.15-17.59.27:548][754]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 125 classes and 0 folders.
+[2021.07.15-17.59.31:291][919]LogSlate: Window 'TestActor1' being destroyed
+[2021.07.15-17.59.31:298][919]LogSlate: Window 'TestActor1' being destroyed
+[2021.07.15-17.59.31:303][919]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-17.59.31:303][919]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.15-17.59.51:154][122]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.15-18.00.00:742][478]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2021.07.15-18.00.02:029][478]LogSlate: Window 'Save Content' being destroyed
+[2021.07.15-18.00.02:293][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Trash/TestActor1" FILE="../../../../Проэкт/Павел_Рубцов1/Content/Trash/TestActor1.uasset" SILENT=true
+[2021.07.15-18.00.02:300][478]LogSavePackage: Moving '../../../../Проэкт/Павел_Рубцов1/Saved/TestActor149AB406B4A32BDA1E62837A58146787F.tmp' to '../../../../Проэкт/Павел_Рубцов1/Content/Trash/TestActor1.uasset'
+[2021.07.15-18.00.02:790][478]AssetCheck: New page: Asset Save: TestActor1
+[2021.07.15-18.00.02:790][478]LogContentValidation: Display: Validating Blueprint /Game/Trash/TestActor1.TestActor1
+[2021.07.15-18.01.12:446][678]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.15-18.01.46:852][910]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2021.07.15-18.02.14:200][ 51]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2021.07.15-18.02.18:584][466]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.07.15-18.02.30:520][483]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.07.15-18.02.30:579][484]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2021.07.15-18.02.34:391][819]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2021.07.15-18.03.15:092][905]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.15-18.03.16:753][ 66]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2021.07.15-18.03.19:339][290]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.15-18.03.19:469][290]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.15-18.03.19:520][290]PIE: New page: PIE session: NewMap (16 июл. 2021 г., 00:03:19)
+[2021.07.15-18.03.19:616][290]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.07.15-18.03.19:641][290]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.07.15-18.03.19:667][290]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2021.07.15-18.03.19:714][290]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046867s)
+[2021.07.15-18.03.19:747][290]LogAIModule: Creating AISystem for world NewMap
+[2021.07.15-18.03.19:747][290]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001DA493CA800), frame # 30290
+[2021.07.15-18.03.19:747][290]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001DA1DC6A980), frame # 30290
+[2021.07.15-18.03.19:747][290]LogPlayLevel: PIE: World Init took: (0.033154s)
+[2021.07.15-18.03.19:761][290]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.093843s)
+[2021.07.15-18.03.19:789][290]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2021.07.15-18.03.19:813][290]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.15-18.03.19:813][290]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.15-18.03.19:813][290]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.15-18.03.19:813][290]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.15-18.03.19:813][290]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.15-18.03.19:813][290]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.15-18.03.19:813][290]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.15-18.03.19:813][290]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.15-18.03.19:814][290]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.15-18.03.19:814][290]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.15-18.03.19:821][290]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.15-18.03.19:821][290]LogAudioMixer: Display: 1: FrontRight
+[2021.07.15-18.03.19:888][290]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.07.15-18.03.19:889][290]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.15-18.03.19:889][290]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.15-18.03.19:889][290]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.15-18.03.19:890][290]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.15-18.03.19:907][290]LogInit: FAudioDevice initialized.
+[2021.07.15-18.03.19:985][290]LogLoad: Game class is 'GameModeBase'
+[2021.07.15-18.03.20:157][290]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.07.15-21.03.20
+[2021.07.15-18.03.20:164][290]LogWorld: Bringing up level for play took: 0.006873
+[2021.07.15-18.03.20:164][290]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.07.15-18.03.20:644][290]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2021.07.15-18.03.20:750][290]PIE: Server logged in
+[2021.07.15-18.03.20:751][290]PIE: Play in editor total start time 1,379 seconds.
+[2021.07.15-18.03.36:758][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.15-18.03.36:758][780]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2021.07.15-18.03.36:758][780]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-18.03.36:758][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.15-18.03.36:771][780]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.15-18.03.36:778][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.15-18.03.36:827][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.15-18.03.36:906][780]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001DA1DC6A980), frame # 31780
+[2021.07.15-18.03.36:906][780]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001DA493CA800), frame # 31780
+[2021.07.15-18.03.36:926][780]LogUObjectHash: Compacting FUObjectHashTables data took   6.17ms
+[2021.07.15-18.03.36:959][781]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.07.15-18.03.51:998][508]LogActorFactory: Actor Factory created Cube
+[2021.07.15-18.03.53:309][646]LogActorFactory: Actor Factory created Cube
+[2021.07.15-18.04.04:199][689]LogSlate: Took 0.000321 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.07.15-18.04.31:938][597]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.07.15-18.04.32:608][652]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.07.15-18.05.33:250][906]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.07.15-18.05.53:115][639]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.07.15-18.05.54:744][774]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.15-18.05.54:751][774]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.15-18.05.54:751][774]PIE: New page: PIE session: NewMap (16 июл. 2021 г., 00:05:54)
+[2021.07.15-18.05.54:751][774]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2021.07.15-18.05.54:755][774]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003666s)
+[2021.07.15-18.05.54:757][774]LogAIModule: Creating AISystem for world NewMap
+[2021.07.15-18.05.54:757][774]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001DA39B33E00), frame # 43774
+[2021.07.15-18.05.54:774][774]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001DA47744680), frame # 43774
+[2021.07.15-18.05.54:775][774]LogPlayLevel: PIE: World Init took: (0.019657s)
+[2021.07.15-18.05.54:775][774]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.023504s)
+[2021.07.15-18.05.54:849][774]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2021.07.15-18.05.54:859][774]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.15-18.05.54:859][774]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.15-18.05.54:859][774]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.15-18.05.54:859][774]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.15-18.05.54:859][774]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.15-18.05.54:859][774]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.15-18.05.54:859][774]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.15-18.05.54:859][774]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.15-18.05.54:859][774]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.15-18.05.54:860][774]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.15-18.05.54:867][774]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.15-18.05.54:867][774]LogAudioMixer: Display: 1: FrontRight
+[2021.07.15-18.05.54:913][774]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2021.07.15-18.05.54:913][774]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.15-18.05.54:913][774]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.15-18.05.54:913][774]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.15-18.05.54:914][774]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.15-18.05.54:931][774]LogInit: FAudioDevice initialized.
+[2021.07.15-18.05.54:941][774]LogLoad: Game class is 'GameModeBase'
+[2021.07.15-18.05.54:942][774]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.07.15-21.05.54
+[2021.07.15-18.05.54:942][774]LogWorld: Bringing up level for play took: 0.000928
+[2021.07.15-18.05.54:943][774]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.07.15-18.05.54:978][774]PIE: Server logged in
+[2021.07.15-18.05.54:979][774]PIE: Play in editor total start time 0,23 seconds.
+[2021.07.15-18.06.09:192][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.15-18.06.09:192][115]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2021.07.15-18.06.09:192][115]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-18.06.09:193][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.15-18.06.09:203][115]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.15-18.06.09:207][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.15-18.06.09:253][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.15-18.06.09:254][115]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001DA47744680), frame # 45115
+[2021.07.15-18.06.09:254][115]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001DA39B33E00), frame # 45115
+[2021.07.15-18.06.09:257][115]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.07.15-18.06.09:289][116]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.07.15-18.06.10:815][289]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2021.07.15-18.07.25:681][353]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2021.07.15-18.07.47:919][ 87]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.07.15-18.07.55:419][676]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (Atmospheric Fog)
+[2021.07.15-18.07.55:420][676]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.15-18.08.17:101][413]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.15-18.08.17:648][442]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.07.15-18.08.59:791][  8]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2021.07.15-18.08.59:808][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../Проэкт/Павел_Рубцов1/Saved/Autosaves/Game/NewMap_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.07.15-18.08.59:831][  8]LogSavePackage: Moving '../../../../Проэкт/Павел_Рубцов1/Saved/NewMap_Auto160FC266F4AC07AEA1D6FB48FAEE4876B.tmp' to '../../../../Проэкт/Павел_Рубцов1/Saved/Autosaves/Game/NewMap_Auto1.umap'
+[2021.07.15-18.08.59:832][  8]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewMap' took 0.068
+[2021.07.15-18.08.59:832][  8]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.068
+[2021.07.15-18.10.00:810][645]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Trash/TestActor1.TestActor1
+[2021.07.15-18.10.06:002][980]LogSlate: Window 'TestActor1' being destroyed
+[2021.07.15-18.10.06:009][980]LogSlate: Window 'TestActor1' being destroyed
+[2021.07.15-18.10.06:015][980]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-18.10.06:015][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.15-18.10.11:199][474]LogSlate: Window 'Tutorials' being destroyed
+[2021.07.15-18.10.14:762][792]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Trash/TestActor1.TestActor1
+[2021.07.15-18.10.30:082][894]LogSlate: Window 'TestActor1' being destroyed
+[2021.07.15-18.10.30:089][894]LogSlate: Window 'TestActor1' being destroyed
+[2021.07.15-18.10.30:128][894]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-18.10.30:128][894]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.15-18.10.33:917][256]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Trash/TestActor1.TestActor1
+[2021.07.15-18.10.37:808][564]LogSlate: Window 'TestActor1' being destroyed
+[2021.07.15-18.10.37:848][564]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-18.10.37:848][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.15-18.10.55:069][203]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Trash/TestActor1.TestActor1
+[2021.07.15-18.11.09:431][428]LogSlate: Window 'Size Map' being destroyed
+[2021.07.15-18.11.09:439][428]LogSlate: Window 'Size Map' being destroyed
+[2021.07.15-18.11.26:883][794]LogSlate: Window 'TestActor1' being destroyed
+[2021.07.15-18.11.26:896][794]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-18.11.26:896][794]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.15-18.11.35:552][507]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.07.15-18.11.39:450][867]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Trash/NewBlueprint.NewBlueprint
+[2021.07.15-18.11.40:088][867]LogRenderer: Reallocating scene render targets to support 1208x908 Format 10 NumSamples 1 (Frame:1).
+[2021.07.15-18.11.51:746][619]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2021.07.15-18.11.53:086][619]LogSlate: Window 'Delete Assets' being destroyed
+[2021.07.15-18.11.53:092][619]LogEditorTransaction: Non zero active count in UTransBuffer::Reset
+ActiveCount : 2
+SessionName : 
+Reason      : Delete Selected Item
+
+Purging the undo buffer...
+
+[2021.07.15-18.11.54:051][619]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Trash/TestActor1.TestActor1
+[2021.07.15-18.11.55:371][619]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2021.07.15-18.11.55:405][619]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2021.07.15-18.11.55:432][619]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.07.15-18.11.56:092][619]SourceControl: Error: Updated 0 paths from the index
+[2021.07.15-18.11.56:507][619]SourceControl: rm 'Content/Trash/TestActor1.uasset'
+[2021.07.15-18.12.12:793][389]LogSlate: Window 'NewBlueprint' being destroyed
+[2021.07.15-18.12.12:800][389]LogSlate: Window 'NewBlueprint' being destroyed
+[2021.07.15-18.12.12:805][389]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-18.12.12:805][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.15-18.12.30:704][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2021.07.15-18.12.30:714][ 97]LogMetaData: Removing '/Game/Trash/TestActor1.TestActor1:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Trash/NewBlueprint.PackageMetaData'
+[2021.07.15-18.12.30:714][ 97]LogMetaData: Removing '/Game/Trash/TestActor1.SKEL_TestActor1_C' ref from Metadata '/Game/Trash/NewBlueprint.PackageMetaData'
+[2021.07.15-18.12.30:714][ 97]LogMetaData: Removing '/Game/Trash/TestActor1.TestActor1_C' ref from Metadata '/Game/Trash/NewBlueprint.PackageMetaData'
+[2021.07.15-18.12.30:714][ 97]LogMetaData: Removing '/Game/Trash/TestActor1.TestActor1:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Trash/NewBlueprint.PackageMetaData'
+[2021.07.15-18.12.30:714][ 97]LogMetaData: Removing '/Game/Trash/TestActor1.TestActor1:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Trash/NewBlueprint.PackageMetaData'
+[2021.07.15-18.12.30:714][ 97]LogMetaData: Removing '/Game/Trash/TestActor1.TestActor1:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Trash/NewBlueprint.PackageMetaData'
+[2021.07.15-18.12.30:752][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Trash/TestActor1" FILE="../../../../Проэкт/Павел_Рубцов1/Content/Trash/TestActor1.uasset" SILENT=true
+[2021.07.15-18.12.30:759][ 97]LogSavePackage: Moving '../../../../Проэкт/Павел_Рубцов1/Saved/TestActor166D3276A49B5F4C722547ABA4DC363ED.tmp' to '../../../../Проэкт/Павел_Рубцов1/Content/Trash/TestActor1.uasset'
+[2021.07.15-18.12.31:699][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2021.07.15-18.12.31:734][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2021.07.15-18.12.31:760][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.07.15-18.12.31:810][ 97]AssetCheck: New page: Asset Save: TestActor1
+[2021.07.15-18.12.31:810][ 97]LogContentValidation: Display: Validating Blueprint /Game/Trash/TestActor1.TestActor1
+[2021.07.15-18.12.48:828][735]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Trash/TestActor1.TestActor1
+[2021.07.15-18.12.55:468][335]LogSlate: Window 'TestActor1' being destroyed
+[2021.07.15-18.12.55:476][335]LogSlate: Window 'TestActor1' being destroyed
+[2021.07.15-18.12.55:507][335]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-18.12.55:507][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.15-18.12.58:247][569]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2021.07.15-18.12.59:242][569]LogSlate: Window 'Delete Assets' being destroyed
+[2021.07.15-18.12.59:589][569]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2021.07.15-18.12.59:624][569]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2021.07.15-18.12.59:648][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.07.15-18.13.00:266][569]SourceControl: Error: Updated 0 paths from the index
+[2021.07.15-18.13.00:687][569]SourceControl: rm 'Content/Trash/TestActor1.uasset'
+[2021.07.15-18.13.24:761][112]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.15-18.13.28:420][378]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.07.15-18.13.36:648][204]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2021.07.15-18.13.37:874][204]LogSlate: Window 'Save Content' being destroyed
+[2021.07.15-18.13.38:287][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../Проэкт/Павел_Рубцов1/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.15-18.13.38:312][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.07.15-18.13.38:333][204]LogSavePackage: Moving '../../../../Проэкт/Павел_Рубцов1/Saved/NewMap7022E2C34796AE0632E98CB58D557784.tmp' to '../../../../Проэкт/Павел_Рубцов1/Content/NewMap.umap'
+[2021.07.15-18.13.38:848][204]LogFileHelpers: Saving map 'NewMap' took 0.562
+[2021.07.15-18.13.38:849][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../Проэкт/Павел_Рубцов1/Content/NewMap_BuiltData.uasset" SILENT=true
+[2021.07.15-18.13.38:861][204]LogSavePackage: Moving '../../../../Проэкт/Павел_Рубцов1/Saved/NewMap_BuiltData4A1C167E4A878A3228A3D3BF3EB6DE94.tmp' to '../../../../Проэкт/Павел_Рубцов1/Content/NewMap_BuiltData.uasset'
+[2021.07.15-18.13.39:415][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Trash/1" FILE="../../../../Проэкт/Павел_Рубцов1/Content/Trash/1.uasset" SILENT=true
+[2021.07.15-18.13.39:421][204]LogSavePackage: Moving '../../../../Проэкт/Павел_Рубцов1/Saved/1C69DC64D4511641D82A3DFB3C9D8C189.tmp' to '../../../../Проэкт/Павел_Рубцов1/Content/Trash/1.uasset'
+[2021.07.15-18.13.39:909][204]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.15-18.13.39:909][204]LogContentValidation: Display: Validating World /Game/NewMap.NewMap
+[2021.07.15-18.13.39:909][204]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/NewMap_BuiltData.NewMap_BuiltData
+[2021.07.15-18.13.39:909][204]LogContentValidation: Display: Validating Blueprint /Game/Trash/1.1
