@@ -2317,3 +2317,10 @@ Purging the undo buffer...
 [2021.07.15-18.13.39:909][204]LogContentValidation: Display: Validating World /Game/NewMap.NewMap
 [2021.07.15-18.13.39:909][204]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/NewMap_BuiltData.NewMap_BuiltData
 [2021.07.15-18.13.39:909][204]LogContentValidation: Display: Validating Blueprint /Game/Trash/1.1
+[2021.07.15-18.13.49:120][404]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Trash/1.1
+[2021.07.15-18.14.04:674][386]BlueprintLog: New page: Compile 1
+[2021.07.15-18.14.04:721][386]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2021.07.15-18.14.05:778][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Trash/1" FILE="../../../../Проэкт/Павел_Рубцов1/Content/Trash/1.uasset" SILENT=true
+[2021.07.15-18.14.05:785][433]LogSavePackage: Moving '../../../../Проэкт/Павел_Рубцов1/Saved/1AE6B98B04BB7E5F09C74DFB9EF65A36F.tmp' to '../../../../Проэкт/Павел_Рубцов1/Content/Trash/1.uasset'
+[2021.07.15-18.14.05:802][433]AssetCheck: New page: Asset Save: 1
+[2021.07.15-18.14.05:802][433]LogContentValidation: Display: Validating Blueprint /Game/Trash/1.1
